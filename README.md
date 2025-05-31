@@ -1,7 +1,6 @@
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (1º semestre), com foco na formação como Desenvolvedor Full Stack JavaScript. <br>
-  Atualmente, estou me especializando em tecnologias de frontend como HTML5, CSS3 e JavaScript, além de iniciar minha capacitação em backend com Node.js. <br>
-  Tenho objetivos claros de carreira e estou em busca de constante evolução.
+  Atualmente, estou me especializando em tecnologias de frontend como HTML5, CSS3 e JavaScript, além de iniciar minha capacitação em backend com Node.js. Tenho objetivos claros de carreira e estou em busca de constante evolução.
 </p>
 
 #
